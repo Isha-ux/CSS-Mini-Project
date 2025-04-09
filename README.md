@@ -1,11 +1,11 @@
-# CSS-Mini-Project
+<h1>#CSS-Mini-Project</h1>
 
-<h1>Sidebar Menu Project</h1>
+<h2>Sidebar Menu Project</h2>
 
-<h3>Description</h3>
+<h4>Description</h4>
 <p>A simple sidebar menu for Photoshop pages built with HTML and CSS.</p>
 
-<h3>Features</h3>
+<h4>Features</h4>
 <ul>
 <li> Responsive design</li>
 <li>Hover effects</li>
